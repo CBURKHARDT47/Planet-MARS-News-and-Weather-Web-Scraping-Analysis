@@ -1,6 +1,7 @@
 # Web-Scraping-Challenge
 Module 11 Challenge - Splinter and HTML parsing with Beautiful Soup, Mars News and Weather 
 
+![image](https://github.com/CBURKHARDT47/Web-Scraping-Challenge/assets/128064003/9307a478-ec70-438f-a0e8-b5764fe7ffdc)
 
 
 
